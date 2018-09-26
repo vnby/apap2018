@@ -1,11 +1,11 @@
-package com.apap.tutorial3.service;
+package com.apap.tutorial3selasa.service;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.apap.tutorial3.model.CarModel;
+import com.apap.tutorial3selasa.model.CarModel;
 
 @Service
 public class CarInMemoryService implements CarService {

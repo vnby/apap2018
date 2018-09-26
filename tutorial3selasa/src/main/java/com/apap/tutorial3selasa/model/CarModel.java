@@ -1,4 +1,4 @@
-package com.apap.tutorial3.model;
+package com.apap.tutorial3selasa.model;
 
 public class CarModel {
 	private String id;

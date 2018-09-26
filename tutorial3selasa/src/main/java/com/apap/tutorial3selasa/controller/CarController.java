@@ -1,4 +1,4 @@
-package com.apap.tutorial3.controller;
+package com.apap.tutorial3selasa.controller;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.apap.tutorial3.model.CarModel;
-import com.apap.tutorial3.service.CarService;
+import com.apap.tutorial3selasa.model.CarModel;
+import com.apap.tutorial3selasa.service.CarService;
 
 @Controller
 public class CarController {

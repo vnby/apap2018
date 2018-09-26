@@ -1,8 +1,8 @@
-package com.apap.tutorial3.service;
+package com.apap.tutorial3selasa.service;
 
 import java.util.List;
 
-import com.apap.tutorial3.model.CarModel;
+import com.apap.tutorial3selasa.model.CarModel;
 
 public interface CarService {
 	void addCar(CarModel car);
